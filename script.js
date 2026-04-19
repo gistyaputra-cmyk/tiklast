@@ -15,7 +15,7 @@ window.location.href="jual.html";
 }
 
 let products=[
-["SMART-",50000,"","https://www.xendit.co/wp-content/uploads/2020/03/digital-ads.jpg","Belajar seru dalam satu genggaman!."],
+["SMART-",50000,"","https://i0.wp.com/anakstartup.id/wp-content/uploads/2024/09/10-Produk-Digital-yang-Berpotensi-Menghasilkan-Ratusan-Juta-Rupiah-Setiap-Bulannya.jpg?fit=1485%2C909&ssl=1","Belajar seru dalam satu genggaman!."],
 ["Template Website",100000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Template siap pakai untuk berbagai kebutuhan."],
 ["Aplikasi Kasir",150000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Aplikasi kasir modern untuk bisnis kecil."],
 ["Desain Logo",80000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Desain logo profesional dan unik."],
