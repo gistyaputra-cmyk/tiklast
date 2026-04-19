@@ -16,7 +16,7 @@ window.location.href="jual.html";
 
 let products=[
 ["Study Hacks",50000,"https://iili.io/BgMeBxS.md.jpg","Belajar seru dalam satu genggaman!."],
-["Template Website",100000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Template siap pakai untuk berbagai kebutuhan."],
+["Materi Cerpen",100000,"https://iili.io/BgMPoTg.md.jpg","Template siap pakai untuk berbagai kebutuhan."],
 ["Aplikasi Kasir",150000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Aplikasi kasir modern untuk bisnis kecil."],
 ["Desain Logo",80000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Desain logo profesional dan unik."],
 ["Preset Foto",60000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Preset foto aesthetic siap pakai."],
