@@ -16,7 +16,7 @@ window.location.href="jual.html";
 
 let products=[
 ["SMART-",50000,"1776218012146.png","Belajar seru dalam satu genggaman!."],
-["Template Website",100000,"1498050108023-c5249f4df085","Template siap pakai untuk berbagai kebutuhan."],
+["Template Website",100000,"1776218012146.png","Template siap pakai untuk berbagai kebutuhan."],
 ["Aplikasi Kasir",150000,"1556740749-887f6717d7e4","Aplikasi kasir modern untuk bisnis kecil."],
 ["Desain Logo",80000,"1626785774573-4b799315345d","Desain logo profesional dan unik."],
 ["Preset Foto",60000,"1500530855697-b586d89ba3ee","Preset foto aesthetic siap pakai."],
