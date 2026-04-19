@@ -15,9 +15,9 @@ window.location.href="jual.html";
 }
 
 let products=[
-["Study Hacks",50000,"https://iili.io/BgMeBxS.md.jpg","Belajar seru dalam satu genggaman!."],
-["Materi Cerpen",100000,"https://iili.io/BgMPoTg.md.jpg","Template siap pakai untuk berbagai kebutuhan."],
-["Aplikasi Kasir",150000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Aplikasi kasir modern untuk bisnis kecil."],
+["E-Book Study Hacks",50000,"https://iili.io/BgMeBxS.md.jpg","Belajar seru dalam satu genggaman!."],
+["E-Book Materi Cerpen",100000,"https://iili.io/BgMPoTg.md.jpg","Buat cerpen anda menjadi lebih seru dengan reverensi Materi Cerpen."],
+["E-Book Smart Kids ",150000,"https://iili.io/BgVKN1V.md.jpg","Belajar seru dalam satu genggaman!."],
 ["Desain Logo",80000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Desain logo profesional dan unik."],
 ["Preset Foto",60000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Preset foto aesthetic siap pakai."],
 ["Script Bot",90000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Script bot otomatis untuk berbagai kebutuhan."],
