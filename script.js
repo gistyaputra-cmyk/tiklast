@@ -15,21 +15,21 @@ window.location.href="jual.html";
 }
 
 let products=[
-["SMART-",50000,"1776218012146.png","Belajar seru dalam satu genggaman!."],
-["Template Website",100000,"1776218012146.png","Template siap pakai untuk berbagai kebutuhan."],
-["Aplikasi Kasir",150000,"1556740749-887f6717d7e4","Aplikasi kasir modern untuk bisnis kecil."],
-["Desain Logo",80000,"1626785774573-4b799315345d","Desain logo profesional dan unik."],
-["Preset Foto",60000,"1500530855697-b586d89ba3ee","Preset foto aesthetic siap pakai."],
-["Script Bot",90000,"1519389950473-47ba0277781c","Script bot otomatis untuk berbagai kebutuhan."],
-["UI Kit",120000,"1559027615-cd4628902d4a","UI kit lengkap dan modern."],
-["Game Assets",110000,"1511512578047-dfb367046420","Asset game berkualitas tinggi."],
-["Font Premium",40000,"1586717799252-bd134ad00e26","Font eksklusif untuk desain."],
-["Ebook Bisnis",75000,"1521587760476-6c12a4b040da","Panduan bisnis online dari nol."],
-["Video Editing Pack",95000,"1574717024453-3540560d5f14","Asset editing video lengkap."],
-["Music Pack",70000,"1508704019882-f9cf40e475b4","Musik bebas copyright."],
-["Icon Set",30000,"1545235617-9465d2a55698","Icon modern untuk UI."],
-["Landing Page Kit",85000,"1509395176047-4a66953fd231","Template landing page profesional."],
-["AI Tools Bundle",200000,"1677442136019-21780ecad995","Tools AI untuk produktivitas."]
+["SMART-",50000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Belajar seru dalam satu genggaman!."],
+["Template Website",100000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Template siap pakai untuk berbagai kebutuhan."],
+["Aplikasi Kasir",150000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Aplikasi kasir modern untuk bisnis kecil."],
+["Desain Logo",80000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Desain logo profesional dan unik."],
+["Preset Foto",60000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Preset foto aesthetic siap pakai."],
+["Script Bot",90000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Script bot otomatis untuk berbagai kebutuhan."],
+["UI Kit",120000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","UI kit lengkap dan modern."],
+["Game Assets",110000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Asset game berkualitas tinggi."],
+["Font Premium",40000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Font eksklusif untuk desain."],
+["Ebook Bisnis",75000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Panduan bisnis online dari nol."],
+["Video Editing Pack",95000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Asset editing video lengkap."],
+["Music Pack",70000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Musik bebas copyright."],
+["Icon Set",30000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Icon modern untuk UI."],
+["Landing Page Kit",85000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Template landing page profesional."],
+["AI Tools Bundle",200000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Tools AI untuk produktivitas."]
 ];
 
 let list=document.getElementById("productList");
