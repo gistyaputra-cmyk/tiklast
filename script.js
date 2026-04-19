@@ -57,7 +57,7 @@ document.getElementById("popup").style.display="flex";
 document.getElementById("productName").innerText=n;
 document.getElementById("price").innerText="Rp"+p;
 document.getElementById("desc").innerText=desc;
-document.getElementById("productImage").src="https://images.unsplash.com/photo-"+img+"?w=500";
+document.getElementById("productImage").src=img;
 }
 
 function closePopup(){
