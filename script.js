@@ -15,7 +15,7 @@ window.location.href="jual.html";
 }
 
 let products=[
-["SMART-",50000,"https://i.ibb.co.com/mrGkRWgB/1776218012146.png","Belajar seru dalam satu genggaman!."],
+["SMART-",50000,"1776218012146","Belajar seru dalam satu genggaman!."],
 ["Template Website",100000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Template siap pakai untuk berbagai kebutuhan."],
 ["Aplikasi Kasir",150000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Aplikasi kasir modern untuk bisnis kecil."],
 ["Desain Logo",80000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Desain logo profesional dan unik."],
