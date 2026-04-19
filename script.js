@@ -15,7 +15,7 @@ window.location.href="jual.html";
 }
 
 let products=[
-["SMART-KIDS",50000,"1776218012146.png","Belajar seru dalam satu genggaman!."],
+["SMART-",50000,"1776218012146.png","Belajar seru dalam satu genggaman!."],
 ["Template Website",100000,"1498050108023-c5249f4df085","Template siap pakai untuk berbagai kebutuhan."],
 ["Aplikasi Kasir",150000,"1556740749-887f6717d7e4","Aplikasi kasir modern untuk bisnis kecil."],
 ["Desain Logo",80000,"1626785774573-4b799315345d","Desain logo profesional dan unik."],
