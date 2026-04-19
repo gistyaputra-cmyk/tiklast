@@ -40,7 +40,7 @@ let div=document.createElement("div");
 div.className="product";
 
 div.innerHTML=`
-<img src="https://images.unsplash.com/photo-${p[2]}?w=300">
+<img src="${p[2]}">
 <p>${p[0]}</p>
 <small>Rp${p[1]}</small>
 `;
