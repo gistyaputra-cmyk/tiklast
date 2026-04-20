@@ -15,21 +15,21 @@ window.location.href="jual.html";
 }
 
 let products=[
-["E-Book Study Hacks",50000,"https://iili.io/BgMeBxS.md.jpg","Belajar seru dalam satu genggaman!."],
-["E-Book Materi Cerpen",100000,"https://iili.io/BgMPoTg.md.jpg","Buat cerpen anda menjadi lebih seru dengan reverensi Materi Cerpen."],
-["E-Book Smart Kids ",150000,"https://iili.io/BgVKN1V.md.jpg","Belajar seru dalam satu genggaman!."],
-["Desain Logo",80000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Desain logo profesional dan unik."],
-["Preset Foto",60000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Preset foto aesthetic siap pakai."],
-["Script Bot",90000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Script bot otomatis untuk berbagai kebutuhan."],
-["UI Kit",120000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","UI kit lengkap dan modern."],
-["Game Assets",110000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Asset game berkualitas tinggi."],
-["Font Premium",40000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Font eksklusif untuk desain."],
-["Ebook Bisnis",75000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Panduan bisnis online dari nol."],
-["Video Editing Pack",95000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Asset editing video lengkap."],
-["Music Pack",70000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Musik bebas copyright."],
-["Icon Set",30000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Icon modern untuk UI."],
-["Landing Page Kit",85000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Template landing page profesional."],
-["AI Tools Bundle",200000,"https://blog.verihubs.com/storage/2022/08/produk-digital.jpg","Tools AI untuk produktivitas."]
+["E-Book Study Hacks",50000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Belajar seru dalam satu genggaman!."],
+["E-Book Materi Cerpen",100000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Buat cerpen anda menjadi lebih seru dengan reverensi Materi Cerpen."],
+["E-Book Smart Kids ",150000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Belajar seru dalam satu genggaman!."],
+["Desain Logo",80000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Desain logo profesional dan unik."],
+["Preset Foto",60000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Preset foto aesthetic siap pakai."],
+["Script Bot",90000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Script bot otomatis untuk berbagai kebutuhan."],
+["UI Kit",120000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","UI kit lengkap dan modern."],
+["Game Assets",110000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Asset game berkualitas tinggi."],
+["Font Premium",40000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Font eksklusif untuk desain."],
+["Ebook Bisnis",75000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Panduan bisnis online dari nol."],
+["Video Editing Pack",95000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Asset editing video lengkap."],
+["Music Pack",70000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Musik bebas copyright."],
+["Icon Set",30000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Icon modern untuk UI."],
+["Landing Page Kit",85000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Template landing page profesional."],
+["AI Tools Bundle",200000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Tools AI untuk produktivitas."]
 ];
 
 let list=document.getElementById("productList");
