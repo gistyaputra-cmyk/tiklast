@@ -15,9 +15,9 @@ window.location.href="jual.html";
 }
 
 let products=[
-["E-Book Study Hacks",50000,"https://i.ibb.co.com/3yVxxqzz/Whats-App-Image-2026-04-19-at-10-53-20.jpg","Belajar seru dalam satu genggaman!."],
-["E-Book Materi Cerpen",100000,"https://i.ibb.co.com/JwWzyDbw/Whats-App-Image-2026-04-19-at-10-53-20-1.jpg","Buat cerpen anda menjadi lebih seru dengan reverensi Materi Cerpen."],
-["E-Book Smart Kids ",150000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Belajar seru dalam satu genggaman!."],
+["E-Book Study Hacks",15000,"https://i.ibb.co.com/3yVxxqzz/Whats-App-Image-2026-04-19-at-10-53-20.jpg","Belajar seru dalam satu genggaman!."],
+["E-Book Materi Cerpen",15000"https://i.ibb.co.com/JwWzyDbw/Whats-App-Image-2026-04-19-at-10-53-20-1.jpg","Buat cerpen anda menjadi lebih seru dengan reverensi Materi Cerpen."],
+["E-Book Smart Kids ",15000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Belajar seru dalam satu genggaman!."],
 ["Desain Logo",80000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Desain logo profesional dan unik."],
 ["Preset Foto",60000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Preset foto aesthetic siap pakai."],
 ["Script Bot",90000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Script bot otomatis untuk berbagai kebutuhan."],
